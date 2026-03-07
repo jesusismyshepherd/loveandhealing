@@ -1,0 +1,1098 @@
+{
+  "pricelist_metadata": {
+    "company": "TimeWaver Home GmbH",
+    "valid_from": "2026-02-26",
+    "region": "EU only",
+    "currency": "EUR",
+    "prices_type": "net",
+    "note": "All prices strictly net, ex works, exclusive of customs duty, shipping, insurance and plus VAT as applicable"
+  },
+  "products": {
+    "timewaver_holistic_systems": [
+      {
+        "number": "01-004-047-01",
+        "model": "TimeWaver Basic",
+        "description": "Desktop hardware with basic software with extensive system databases (840,000 entries) and functions, and MyTimeWaver module; includes AI Assistant and LevelWave Basis 1.2",
+        "price_net": 16990.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-147-0",
+        "model": "TimeWaver QI MobileQuantum",
+        "description": "MobileQuantum hardware with the new TimeWaver QI module",
+        "price_net": 8394.96,
+        "tags": ["NEW"]
+      },
+      {
+        "number": "01-004-146-01",
+        "model": "TimeWaver Basic Mobile",
+        "description": "MobileQuantum hardware with basic software with extensive system databases (175,000 entries) and functions, and MyTimeWaver module; including LevelWave Basis",
+        "price_net": 8394.96,
+        "tags": ["NEW"]
+      },
+      {
+        "number": "01-004-037-01",
+        "model": "TimeWaver Pro 1.1",
+        "description": "The system for professional users, desktop hardware with extensive system databases (840,000 entries), coherence module, and MyTimeWaver module; includes Ai Assistant and LevelWave Basis 1.2",
+        "price_net": 19890.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-039-01",
+        "model": "TimeWaver Pro Plus",
+        "description": "As TimeWaver Pro (Coherence modules, MyTimeWaver), plus Meridians, Energy Points, Sound, Aura and TimeLine module",
+        "price_net": 24690.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-041-01",
+        "model": "TimeWaver Pro Premium",
+        "description": "As TimeWaver Pro Plus with GenoWave and Matrix modules",
+        "price_net": 27890.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-043-01",
+        "model": "TimeWaver Pro Platinum",
+        "description": "As TimeWaver Pro Premium with Coaching, Homeology and Homeology Life Topics modules",
+        "price_net": 34790.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-134-01",
+        "model": "TimeWaver MobileQuantum combi",
+        "description": "MobileQuantum hardware for Information Field analysis and harmonization (only when purchased at the same time as a TimeWaver system with desktop hardware; only as a second device to TimeWaver Basic, Pro or Business system, incl. activation on a second PC based on the license of the main device)",
+        "price_net": 6190.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-135-01",
+        "model": "TimeWaver Pro MobileQuantum",
+        "description": "The system for professional users, mobile hardware with extensive system databases (175,000 entries), coherence module, and MyTimeWaver module; includes LevelWave Base 2",
+        "price_net": 11672.00,
+        "tags": ["NEW"]
+      },
+      {
+        "number": "01-004-136-01",
+        "model": "TimeWaver Pro Premium MobileQuantum",
+        "description": "Like TimeWaver Pro MobileQuantum (coherence module, MyTimeWaver), plus meridian, energy points, sound, Aura-TimeLine module, GenoWave and matrix modules",
+        "price_net": 20890.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-137-01",
+        "model": "TimeWaver Pro Platinum MobileQuantum",
+        "description": "Like TimeWaver Pro Premium MobileQuantum with the Coaching, Homeology and Life Themes modules",
+        "price_net": 26090.00,
+        "tags": []
+      },
+      {
+        "number": "108-1010",
+        "model": "TimeWaver Cardio Pulse",
+        "description": "Finger clip for measuring the pulse wave and analysis of the heart rate",
+        "price_net": 3090.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-127-01",
+        "model": "TimeWaver MobileQuantum",
+        "description": "Mobile hardware for Information Field analysis and harmonization (only as second device to TimeWaver Basic or Pro systems, incl. activation on a second PC on the basis of the license of the main unit)",
+        "price_net": 6890.00,
+        "tags": []
+      }
+    ],
+    "timewaver_biz_systems": [
+      {
+        "number": "01-004-138-01",
+        "model": "TimeWaver BIZ MobileQuantum",
+        "description": "MobileQuantum hardware + Energy Points module + complete BIZ 2.0 + 10 Sets + 3 Dimensions + 10 Focus texts + 5 Templates + 7 Templates EP module",
+        "price_net": 12290.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-110-01",
+        "model": "TimeWaver BIZ Pro",
+        "description": "Desk hardware + Energy Points module + TimeLine module + complete BIZ 2.0 + Part of Holistic Coaching + more than 20 Sets + 6 Dimensions + 20 Focus texts + 10 Templates + 20 Templates Energy Points module",
+        "price_net": 17190.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-111-01",
+        "model": "TimeWaver BIZ Premium",
+        "description": "Desk hardware + Energy Points module + TimeLine module + GenoWave module + Coaching module + complete BIZ 2.0 + complete Holistic Coaching + more than 30 Sets + 9 Dimensions + 20 Focus texts + 15 Templates + more than 30 Templates Energy Points module",
+        "price_net": 21190.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-112-01",
+        "model": "TimeWaver BIZ Platinum",
+        "description": "Desk hardware + Energy Points module + TimeLine module + GenoWave module + Coaching module + Coherence module + Cardio-System + complete BIZ 2.0 + complete Holistic Coaching + more than 50 Sets + 12 Dimensions + 40 Focus texts + 20 Templates + more than 40 Templates Energy Points module",
+        "price_net": 25990.00,
+        "tags": []
+      }
+    ],
+    "timewaver_coach_systems": [
+      {
+        "number": "01-004-139-01",
+        "model": "TimeWaver Coach Basic MobileQuantum",
+        "description": "MobileQuantum hardware + Coaching module + more than 420,000 TimeWaver Coaching databases",
+        "price_net": 9790.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-046-01",
+        "model": "TimeWaver Coach Basic",
+        "description": "Desk hardware + Coaching, Time-Line and GenoWave module + more than 420,000 TimeWaver Coaching databases",
+        "price_net": 15490.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-101-01",
+        "model": "TimeWaver Coach Professional",
+        "description": "Desk hardware + Coaching, Time-Line, GenoWave and Energy Points module + RealTimeWaver Software + more than 420,000 TimeWaver Coaching databases",
+        "price_net": 17590.00,
+        "tags": []
+      }
+    ],
+    "timewaver_homeology_system": [
+      {
+        "number": "01-004-100-01",
+        "model": "TimeWaver Homeology",
+        "description": "Desk hardware with TimeWaver Pro software (without system databases), equipped with Antonie Peppler's two complete homology modules",
+        "price_net": 15990.00,
+        "tags": []
+      }
+    ],
+    "timewaver_agricultural_products": [
+      {
+        "number": "01-004-131-01",
+        "model": "TimeWaver Agrar Pro",
+        "description": "TimeWaver MobileQuantum Hardware + Energy points module + Approx. 230,000 new agricultural databases + 29 Templates for the energy points module + Approx. 450,000 system databases from areas: personality development + emotions + chakras",
+        "price_net": 12090.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-132-01",
+        "model": "TimeWaver Agrar Premium",
+        "description": "TimeWaver MobileQuantum Hardware + Approx. 230,000 new agricultural databases + Energy points module + 29 Templates for the energy points module + Approx. 450,000 system databases from the following areas: personality development + emotions + Chakras + Aura module + Genowave module",
+        "price_net": 13090.00,
+        "tags": ["NEW"]
+      },
+      {
+        "number": "01-004-133-01",
+        "model": "TimeWaver Agrar Platinum",
+        "description": "TimeWaver table hardware + Approx. 230,000 new agricultural databases + 29 Templates for the energy points module + Energy points module + Aura module + Genowave module + All TimeWaver System databases as with TimeWaver Basis",
+        "price_net": 17590.00,
+        "tags": []
+      }
+    ],
+    "timewaver_frequency_medical_system": [
+      {
+        "number": "01-004-087-01",
+        "model": "TimeWaver Frequency",
+        "description": "TimeWaver Frequency hardware and accessories",
+        "price_net": 6390.00,
+        "tags": []
+      }
+    ],
+    "timewaver_frequency_software": [
+      {
+        "number": "01-005-015-01",
+        "model": "TimeWaver Frequency Holistic Software",
+        "description": "Software for Individualized Microcurrent Frequency (IMF) application with Spinal Application, Automation, Information Level, Realtime, Resonance, Imbalances and Matrix modules and accessories. Requires TimeWaver Frequency Medical System.",
+        "price_net": 7190.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-016-01",
+        "model": "TimeWaver Frequency McMakin-Software",
+        "description": "Software for Frequency Specific Microcurrent (FSM) application according to Carolyn McMakin with over 120 time-tested protocols and accessories. Requires TimeWaver Frequency Medical System.",
+        "price_net": 2790.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-017-01",
+        "model": "TimeWaver Frequency + TimeWaver Frequency McMakin-Software",
+        "description": "The popular TimeWaver Frequency and TimeWaver Frequency McMakin-Software in one package and accessories. Requires TimeWaver Frequency Medical System.",
+        "price_net": 8990.00,
+        "tags": []
+      }
+    ],
+    "timewaver_biz_software_packages": [
+      {
+        "number": "01-005-034-01",
+        "model": "TimeWaver BIZ 2.0 MobileQuantum-Softwarepackage",
+        "description": "Complete BIZ 2.0 + 10 Sets + 3 Dimensions + 10 Focus texts + 7 Templates EP Module. Minus €1,400 discount for existing BIZ customers.",
+        "price_net": 3490.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-028-01",
+        "model": "TimeWaver BIZ 2.0 Pro-Softwarepackage",
+        "description": "Complete BIZ 2.0 + Part of Holistic Coaching + more than 20 Sets + 6 Dimensions + 20 Focus texts + 10 Templates + 20 Templates EP module. Minus €1,400 discount for existing BIZ customers.",
+        "price_net": 4490.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-029-01",
+        "model": "TimeWaver BIZ 2.0 Premium-Softwarepackage",
+        "description": "Complete BIZ 2.0 + Complete Holistic Coaching + more than 30 Sets + 9 Dimensions + 20 Focus texts + 15 Templates + more than 30 Templates EP module. Minus €1,400 discount for existing BIZ customers.",
+        "price_net": 5790.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-030-01",
+        "model": "TimeWaver BIZ 2.0 Platinum-Softwarepackage",
+        "description": "Complete BIZ 2.0 + Complete Holistic Coaching + more than 50 Sets + 12 Dimensions + 40 Focus texts + 20 Templates + more than 40 Templates EP module. Minus €1,400 discount for existing BIZ customers.",
+        "price_net": 6390.00,
+        "tags": []
+      }
+    ],
+    "timewaver_pro_upgrades": [
+      {
+        "number": "108-2018",
+        "model": "TimeWaver Pro databases upgrade",
+        "description": "More than 900,000 system databases entries from the well-established TimeWaver Pro system. Requires TimeWaver desk hardware.",
+        "price_net": 4590.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-022-01",
+        "model": "TimeWaver Pro databases upgrade 2.0",
+        "description": "More than 670,000 DB entries in 19 specially linked databases in the field of personal and success coaching. Including 19 analysis sets with specific focus text. Only to be operated with Pro Software.",
+        "price_net": 1890.00,
+        "tags": []
+      },
+      {
+        "number": "108-2044",
+        "model": "TimeWaver Pro software",
+        "description": "Completely new TimeWaver software with extended functionalities and total revision of all modules, as well as comprehensive enhancements of operation and analysis logic. Must be purchased separately for each system desk hardware or Combi.",
+        "price_net": 3090.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-023-01",
+        "model": "TimeWaver Coach databases upgrade 2.0",
+        "description": "Completely new coaching databases (approx. 80,000), clear and very detailed descriptions of the entries, 19 Analysis Sets, 7 Dimension models, 4 Energy point models and 28 focus texts",
+        "price_net": 1890.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-025-01",
+        "model": "TimeWaver Progress Harmonization",
+        "description": "Efficient analysis of harmonization lists, with automatic deactivation and optimized transmission time",
+        "price_net": 290.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-032-01",
+        "model": "TimeWaver AI Assistant",
+        "description": "The ChatGPT integration in TimeWaver offers a deeper understanding of analysis entries",
+        "price_net": 490.00,
+        "tags": ["NEW"]
+      }
+    ],
+    "notebook": [
+      {
+        "number": "01-004-143-01",
+        "model": "Validated TimeWaver Dell notebook with certified hardware",
+        "description": "DELL Pro 16 Plus, 16 GB RAM, 512 GB SSD, Intel Core i5-1345U CPU, Windows 11 Pro, 16\" non-touch screen",
+        "price_net": 1180.00,
+        "tags": ["NEW FROM 01.10.2025"]
+      }
+    ],
+    "realtimewaver_systems": [
+      {
+        "number": "01-004-113-01",
+        "model": "RealTimeWaver 2.0 Basis",
+        "description": "RealTimeWaver Pro software and RealTimeWaver MobileQuantum in one package",
+        "price_net": 8390.00,
+        "tags": ["NEW"]
+      },
+      {
+        "number": "01-004-114-01",
+        "model": "RealTimeWaver 2.0 Coach Basis",
+        "description": "RealTimeWaver Pro software and RealTimeWaver MobileQuantum + 80,000 Coaching databases",
+        "price_net": 9990.00,
+        "tags": ["NEW"]
+      },
+      {
+        "number": "01-004-115-01",
+        "model": "RealTimeWaver 2.0 BIZ",
+        "description": "RealTimeWaver Pro software and RealTimeWaver MobileQuantum + 50,000 BIZ databases",
+        "price_net": 10790.00,
+        "tags": ["NEW"]
+      },
+      {
+        "number": "01-005-031-01",
+        "model": "RealTimeWaver 2.0 ProSoftware",
+        "description": "RealTimeWaver automatically accompanies dynamic processes in real time. Software for optional use with existing TimeWaver hardware or TimeWaver MobileQuantum hardware",
+        "price_net": 3190.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-116-01",
+        "model": "RealTimeWaver Premium Bundle",
+        "description": "Combination of TimeWaver Premium and RealTimeWaver Software",
+        "price_net": 30790.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-117-01",
+        "model": "RealTimeWaver Platinum Bundle",
+        "description": "Combination of TimeWaver Platinum and RealTimeWaver Software",
+        "price_net": 37190.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-118-01",
+        "model": "RealTimeWaver BIZ Platinum Bundle",
+        "description": "Combination of TimeWaver BIZ Platinum and RealTimeWaver Software",
+        "price_net": 28390.00,
+        "tags": []
+      }
+    ],
+    "timewaver_modules": [
+      {
+        "number": "01-005-037-01",
+        "model": "QI module",
+        "description": "Connects AI with the information field and extends the analysis with an adaptive, AI-controlled database selection",
+        "price_net": 2512.61,
+        "tags": ["NEW"]
+      },
+      {
+        "number": "01-005-008-01",
+        "model": "Coherence module",
+        "description": "The main module of TimeWaver Pro for analyzing the balance of the organs in the Information Field (upgrade for users of the TimeWaver Basic systems)",
+        "price_net": 3290.00,
+        "tags": []
+      },
+      {
+        "number": "108-2002",
+        "model": "Sound module",
+        "description": "Additional module for TimeWaver to apply frequencies through sound and add them to music",
+        "price_net": 1590.00,
+        "tags": []
+      },
+      {
+        "number": "108-2003",
+        "model": "Aura module",
+        "description": "Module for TimeWaver to analyze and harmonize the aura and chakras and visual representation",
+        "price_net": 1590.00,
+        "tags": []
+      },
+      {
+        "number": "108-2004",
+        "model": "TimeLine module",
+        "description": "Additional module for TimeWaver for Information Field analysis and for harmonizing resonance time points on the life time line",
+        "price_net": 1590.00,
+        "tags": []
+      },
+      {
+        "number": "108-2005",
+        "model": "Energy Points module",
+        "description": "Module for TimeWaver to analyze and harmonize energy points on a two-dimensional surface (without meridian databases)",
+        "price_net": 1590.00,
+        "tags": []
+      },
+      {
+        "number": "108-2041",
+        "model": "BiLo-PS module",
+        "description": "The module for the analysis of deeper conflicts from \"Bio-Logical-Psycho-Social\" contexts (prerequisite: TimeWaver Energy Points module)",
+        "price_net": 890.00,
+        "tags": []
+      },
+      {
+        "number": "108-2006",
+        "model": "Meridians module",
+        "description": "TimeWaver module for analysis and harmonization of meridian points in the Information Field",
+        "price_net": 1590.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-009-01",
+        "model": "Matrix module",
+        "description": "Module based on the work of Peter Gariaev who discovered the Phantom DNA",
+        "price_net": 2990.00,
+        "tags": []
+      },
+      {
+        "number": "108-2009",
+        "model": "GenoWave module",
+        "description": "Module for TimeWaver systemic constellation of family members, partners and groups of people in the Information Field",
+        "price_net": 1990.00,
+        "tags": []
+      },
+      {
+        "number": "108-2014",
+        "model": "Homeology module",
+        "description": "Data for more than 19,000 homeopathic single remedies and 50 mixtures, including digitally recorded oscillation patterns for the most important areas of life, created by Antonie Peppler",
+        "price_net": 2890.00,
+        "tags": []
+      },
+      {
+        "number": "108-2043",
+        "model": "Homeology Life Topics module",
+        "description": "Expansion module for the Homeology module with the 44 most common \"Life Topics\", created from 25 years of practice with Creative Homeopathy, including 450 additional mixtures",
+        "price_net": 4290.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-010-01",
+        "model": "Coaching module",
+        "description": "To support individual coaching sessions, in combination with Information Field analysis. Only to be operated with Pro Software.",
+        "price_net": 1990.00,
+        "tags": []
+      },
+      {
+        "number": "108-2010",
+        "model": "HorseWaver module",
+        "description": "TimeWaver Professional for Horses",
+        "price_net": 2990.00,
+        "tags": []
+      },
+      {
+        "number": "01-005-033-01",
+        "model": "Agrar module",
+        "description": "Approx. 230,000 new agricultural databases + 29 Templates for the energy points module. Runs only on TimeWaver Pro software and the Energy Points Module.",
+        "price_net": 1990.00,
+        "tags": ["NEW"]
+      }
+    ],
+    "timewaver_frequency_mcmakin_accessories": [
+      {
+        "number": "108-4073",
+        "model": "McMakin electrode connection cable, pair, red/white",
+        "description": "Accessory for the TimeWaver Frequency McMakin system",
+        "price_net": 41.93,
+        "tags": []
+      },
+      {
+        "number": "108-4074",
+        "model": "McMakin electrode connection cable, pair, yellow/green",
+        "description": "Accessory for the TimeWaver Frequency McMakin system",
+        "price_net": 41.93,
+        "tags": []
+      },
+      {
+        "number": "108-4116",
+        "model": "Alligator clamps",
+        "description": "To 2 mm, 4 colors",
+        "price_net": 13.09,
+        "tags": []
+      },
+      {
+        "number": "108-4102",
+        "model": "Velcro® Wraps 25 x 8",
+        "description": "(2 piece) accessory for the TimeWaver Frequency McMakin system",
+        "price_net": 29.40,
+        "tags": []
+      },
+      {
+        "number": "108-4103",
+        "model": "Velcro® Wraps 35 x 10",
+        "description": "(2 piece) accessory for the TimeWaver Frequency McMakin system",
+        "price_net": 33.60,
+        "tags": []
+      }
+    ],
+    "timewaver_home_systems": [
+      {
+        "number": "01-004-053-01",
+        "model": "TimeWaver Home",
+        "description": "The handy device for Individualized microcurrent frequency (IMF) application including case and accessories (1 pair hand electrodes, 1 x connection cable, 6 x AA rechargeable batteries, 1 x battery charger, 1 x adhesive electrodes 4 pcs. Ø 32 cm, 1 x adhesive electrodes 4 pcs. 5 x 5 cm, 2 x adapter cable press button on 2 mm, Programs, Gold Cycle, Digital Homeopathy, Bach Flowers, Deep Cycle, Practical Applications, Schuessler Salts)",
+        "price_net": 2590.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-054-01",
+        "model": "TimeWaver Home Beauty",
+        "description": "Standard TimeWaver Home plus Beauty package",
+        "price_net": 2850.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-055-01",
+        "model": "TimeWaver Home Sport",
+        "description": "TimeWaver Home incl. Sport module",
+        "price_net": 2950.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-056-01",
+        "model": "TimeWaver Home Analyse",
+        "description": "TimeWaver Home incl. Analyse module",
+        "price_net": 3490.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-057-01",
+        "model": "TimeWaver Home Animal",
+        "description": "TimeWaver Home incl. Animal module and Animal accessory package",
+        "price_net": 3490.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-128-01",
+        "model": "TimeWaver Home Animal (only)",
+        "description": "Incl. hardware, with only 49 programs for harmonizing the bioenergetic field in animals. 17 general programs & special programs for horses (13), dogs (11) and cats (8). + Animal accessory package",
+        "price_net": 1965.00,
+        "tags": []
+      }
+    ],
+    "timewaver_home_upgrades_and_modules": [
+      {
+        "number": "108-2033",
+        "model": "TimeWaver Home Animal module",
+        "description": "Module with a total of 49 programs for the harmonization of the Bioenergetic Field in animals. 17 general programs & special programs for horses (13), dogs (11) and cats (8).",
+        "price_net": 836.13,
+        "tags": []
+      },
+      {
+        "number": "108-2066",
+        "model": "Animal module incl. Animal accessory package",
+        "description": "Software module (hardware excluded) with a total of 128 programs, of which 49 programs for harmonizing the bioenergetic field in animals. 17 general programs & special programs for horses (13), dogs (11) and cats (8). + Animal accessory package",
+        "price_net": 1037.73,
+        "tags": []
+      },
+      {
+        "number": "108-2032",
+        "model": "TimeWaver Home Analyse module",
+        "description": "Analyse module for mobile frequency program and databases analysis, as well as harmonization in the Information Field. With the ability to transfer recorded waveforms and analysis lists to the TimeWaver Pro software, as well as to transfer databases from the software to the TimeWaver Home system; including the TimeWaver Home system databases, as well as the upgrade to TimeWaver Home firmware 2.0, if an earlier version exists.",
+        "price_net": 836.13,
+        "tags": []
+      },
+      {
+        "number": "01-005-013-01",
+        "model": "TimeWaver Home application programs",
+        "description": "The application programs have been developed from the experience of more demanding applications by our users.",
+        "price_net": 209.24,
+        "tags": []
+      },
+      {
+        "number": "01-005-011-01",
+        "model": "TimeWaver Home practice programs",
+        "description": "The compilation of these practice programs is based on the experiences of our TimeWaver users in their practical day-to-day work",
+        "price_net": 209.24,
+        "tags": []
+      },
+      {
+        "number": "108-2022",
+        "model": "Deep Cycle programs",
+        "description": "The \"Deep Cycle\" programs are a variation and development of the unique \"Gold Cycle\" programs, developed by Jan Fredrik Poleszynski.",
+        "price_net": 42.02,
+        "tags": []
+      },
+      {
+        "number": "108-2023",
+        "model": "Schuessler Salts",
+        "description": "The informational patterns of the \"Digital Schuessler Salts\" can be applied just like \"Digital Bach Flowers\" or \"Digital Homeopathy\".",
+        "price_net": 84.03,
+        "tags": []
+      },
+      {
+        "number": "108-2024",
+        "model": "TimeWaver Home Fitness programs",
+        "description": "The well known fitness programs",
+        "price_net": 209.24,
+        "tags": []
+      },
+      {
+        "number": "108-2030",
+        "model": "TimeWaver Home Sport module",
+        "description": "20 newly developed programs, based on the success at the 2016 Olympics, including four proven fitness programs for application before and after sports.",
+        "price_net": 415.97,
+        "tags": []
+      },
+      {
+        "number": "108-2025",
+        "model": "TimeWaver Home Beauty programs",
+        "description": "The programs to harmonize internal and external beauty",
+        "price_net": 209.24,
+        "tags": []
+      },
+      {
+        "number": "01-003-001-01",
+        "model": "TimeWaver Home Beauty package",
+        "description": "TimeWaver Home Beauty programs including intensive electrode with roller pin",
+        "price_net": 268.07,
+        "tags": []
+      },
+      {
+        "number": "108-2034",
+        "model": "Upgrade TimeWaver Home 2.0",
+        "description": "Upgrade of early TimeWaver Home systems to firmware version 2.0 with completely revised data structure, up to 5 times faster transfer speed, 160 possible individual programs by user and much more.",
+        "price_net": 294.12,
+        "tags": []
+      },
+      {
+        "number": "01-005-024-01",
+        "model": "Gold Cycle",
+        "description": "The time-tested programs, a versatile ensemble for harmonizing the Bioenergetic Field. These programs contain a selection from 144,000 gold frequencies that are most valuable for your work.",
+        "price_net": 125.21,
+        "tags": []
+      },
+      {
+        "number": "108-2039",
+        "model": "Bach Flowers",
+        "description": "The application and the vibration of the Bach Flower Essences with the TimeWaver Home System",
+        "price_net": 84.03,
+        "tags": []
+      },
+      {
+        "number": "108-2040",
+        "model": "Digital Homeopathy",
+        "description": "The compilation of the programs for the individual information remedies and is based on a common compilation of homeopathic remedies.",
+        "price_net": 84.03,
+        "tags": []
+      }
+    ],
+    "timewaver_healy_bundles": [
+      {
+        "number": "01-004-094-01",
+        "model": "Bundle 1: TimeWaver Frequency Holistic with 3 pcs. Healy Discover Edition",
+        "description": "TimeWaver Frequency hardware with Medical Software and Holistic Software for IMF application with modules for vortex application, automation, information level, realtime, resonance and imbalances. Incl. 3 pcs. Healy Discover Edition with Gold Cycle programs, Bioenergetic Support, Program I, Expert Program Page and HealAdvisor Search module",
+        "price_net": 14890.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-095-01",
+        "model": "Bundle 2: TimeWaver Frequency McMakin (standalone) with 2 pcs. MagHealy Discover Edition",
+        "description": "TimeWaver Frequency Hardware with Medical Software and McMakin-Software for FSM application according to Carolyn McMakin with over 120 time-tested protocols. Incl. 2 pcs. MagHealy Discover Edition with the proven classics of magnetic field application",
+        "price_net": 10190.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-096-01",
+        "model": "Bundle 3: TimeWaver Frequency Holistic and McMakin with 3 pcs. Healy Discover Edition and 2 pcs. MagHealy Discover Edition",
+        "description": "TimeWaver Frequency Hardware with Medical Software and McMakin-Software for IMF and FSM application. Plus 3 pcs. Healy Discover Edition and 2 pcs. MagHealy Discover Edition.",
+        "price_net": 18090.00,
+        "tags": []
+      },
+      {
+        "number": "01-004-097-01",
+        "model": "Bundle 4: TimeWaver Frequency Holistic and McMakin with 5 pcs. Healy Discover Edition and 3 pcs. MagHealy Discover Edition",
+        "description": "Same as bundle 3, but other quantities of products",
+        "price_net": 19990.00,
+        "tags": []
+      }
+    ],
+    "accessories_timewaver_healy": [
+      {
+        "number": "108-1052",
+        "model": "Connection Cable 96cm - snap fastener on 2mm, pair",
+        "description": "For use with Healy and heavy hand electrodes",
+        "price_net": 25.13,
+        "tags": []
+      },
+      {
+        "number": "108-4063",
+        "model": "Adhesive electrodes with snap fastener, round, Ø 32mm - 4 pcs.",
+        "description": "For use with adapter cable with snap fastener and electrode connection cable for TimeWaver Home, TimeWaver Frequency and Healy",
+        "price_net": 3.28,
+        "tags": []
+      }
+    ],
+    "accessories_timewaver_frequency_and_home": [
+      {
+        "number": "108-1052",
+        "model": "Connection Cable 96cm - snap fastener on 2mm, pair",
+        "description": "For use with Healy and heavy hand electrodes",
+        "price_net": 25.13
+      },
+      {
+        "number": "108-4063",
+        "model": "Adhesive electrodes with snap fastener, round, Ø 32mm - 4 pcs.",
+        "description": "For use with adapter cable with snap fastener and electrode connection cable for TimeWaver Home, TimeWaver Frequency and Healy",
+        "price_net": 3.28
+      },
+      {
+        "number": "108-4055",
+        "model": "Adapter cable press button on 2 mm",
+        "description": "For bracelet electrode and slipper",
+        "price_net": 7.52
+      },
+      {
+        "number": "108-4040",
+        "model": "Adapter cable with jack plug/redel plug",
+        "description": "For Bifilar Coil, magnet field matt, Tesla generator",
+        "price_net": 26.47
+      },
+      {
+        "number": "108-4001",
+        "model": "Adhesive electrodes",
+        "description": "Small, round Ø 32 mm",
+        "price_net": 3.61
+      },
+      {
+        "number": "108-4002",
+        "model": "Adhesive electrodes",
+        "description": "Medium, squared 50 x 50 mm",
+        "price_net": 3.61
+      },
+      {
+        "number": "108-2042",
+        "model": "Animal accessory package",
+        "description": "Large accessory package for the Application to animals: 1 x Bifilar Coil medium, 1 x Adapter cable with jack plug/redel plug, 2 x Sponge 60 x 75 mm, 2 x Sponge 75 x 105 mm, 2 x Sponge 105 x 130 mm, 2 x Silicon electrode 46 x 50 mm, 1 x Elastic belt 10 x 100 cm, 1 x Elastic belt 10 x 40 cm, 1 x Elastic belt 5 x 40 cm, 1 x 5m Elastic band TCES, 3 x Connection buttons TCES",
+        "price_net": 201.60
+      },
+      {
+        "number": "108-4054",
+        "model": "Bracelet electrode (yellow, synthetic leather)",
+        "description": "TimeWaver Frequency and Home supplies, without socket adapter",
+        "price_net": 8.32
+      },
+      {
+        "number": "108-4061",
+        "model": "Bracelet electrode (black, carbon)",
+        "description": "TimeWaver Frequency and Home supplies, without socket adapter",
+        "price_net": 8.32
+      },
+      {
+        "number": "108-4026",
+        "model": "Connection buttons TCES",
+        "description": "Accessory for elastic band",
+        "price_net": 0.74
+      },
+      {
+        "number": "108-4030",
+        "model": "Cotton electrode, pair GFT",
+        "description": "Accessory for silicone electrodes",
+        "price_net": 12.52
+      },
+      {
+        "number": "108-4031",
+        "model": "Cotton electrode slim, pair GFT",
+        "description": "Accessory for silicone electrodes",
+        "price_net": 12.52
+      },
+      {
+        "number": "108-4004",
+        "model": "Earclip electrode, 1 pair",
+        "description": "With 2 mm socket",
+        "price_net": 25.13
+      },
+      {
+        "number": "108-4007",
+        "model": "Electrode connector cable",
+        "description": "Gray cable for connection of electrodes",
+        "price_net": 41.93
+      },
+      {
+        "number": "108-4015",
+        "model": "Elastic belt 10 x 100 cm",
+        "description": "For the fixation of silicon electrode/sponge",
+        "price_net": 7.48
+      },
+      {
+        "number": "108-4016",
+        "model": "Elastic belt 10 x 40 cm",
+        "description": "For the fixation of silicon electrode/sponge",
+        "price_net": 5.55
+      },
+      {
+        "number": "108-4017",
+        "model": "Elastic belt 5 x 100 cm",
+        "description": "For the fixation of silicon electrode/sponge",
+        "price_net": 7.48
+      },
+      {
+        "number": "108-4018",
+        "model": "Elastic belt 5 x 40 cm",
+        "description": "For the fixation of silicon electrode/sponge",
+        "price_net": 5.55
+      },
+      {
+        "number": "108-4025",
+        "model": "Elastic band TCES",
+        "description": "3.2 cm wide, running meter",
+        "price_net": 7.48
+      },
+      {
+        "number": "108-4013",
+        "model": "Face electrode – cotton, pair (cosmetic)",
+        "description": "To cut out for Silicon Electrode",
+        "price_net": 19.24
+      },
+      {
+        "number": "108-4012",
+        "model": "Facelift electrode (cosmetic)",
+        "description": "2 balls - two 2mm plug",
+        "price_net": 62.95
+      },
+      {
+        "number": "108-4011",
+        "model": "Face mask",
+        "description": "2 x Connection socket",
+        "price_net": 53.70
+      },
+      {
+        "number": "108-4097",
+        "model": "Felt (40 piece)",
+        "description": "To use the ear clip electrodes",
+        "price_net": 1.50
+      },
+      {
+        "number": "108-4053",
+        "model": "Fingerclip",
+        "description": "Fingerclip for cardiopulse",
+        "price_net": 217.65
+      },
+      {
+        "number": "01-003-028-03",
+        "model": "Frequency user set",
+        "description": "Including 10% discount! Designed for approx. 20 applications.",
+        "price_net": 659.90
+      },
+      {
+        "number": "108-4014",
+        "model": "Hair electrode",
+        "description": "Applicator for cranial applications",
+        "price_net": 20.08
+      },
+      {
+        "number": "108-4005",
+        "model": "Hand electrodes, heavy",
+        "description": "Stainless steel (pair) nickel free",
+        "price_net": 83.19
+      },
+      {
+        "number": "108-4045",
+        "model": "Intensive electrode (nickel free)",
+        "description": "With 2 pins, ball- and mushroom attachment",
+        "price_net": 62.94
+      },
+      {
+        "number": "108-4066",
+        "model": "Intensive electrode with roller pin (nickel free)",
+        "description": "Accessory for TimeWaver Beauty programs, roller pin (stainless steel)",
+        "price_net": 80.59
+      },
+      {
+        "number": "108-4039",
+        "model": "Mushroom pin",
+        "description": "Accessory for intensive electrode",
+        "price_net": 7.48
+      },
+      {
+        "number": "108-4038",
+        "model": "Point pin",
+        "description": "Acupuncture pin for Intensive electrodes",
+        "price_net": 7.48
+      },
+      {
+        "number": "01-003-023-01",
+        "model": "Redel USB cable",
+        "description": "For programming TimeWaver Home",
+        "price_net": 25.13
+      },
+      {
+        "number": "108-4024",
+        "model": "Roller pin (nickel free)",
+        "description": "Supply for intensive electrodes, stainless steel",
+        "price_net": 20.34
+      },
+      {
+        "number": "108-4009",
+        "model": "Silicon electrode 46 x 50 mm",
+        "description": "With 2 mm contact",
+        "price_net": 8.36
+      },
+      {
+        "number": "108-4019",
+        "model": "Slipper pair GFT",
+        "description": "With 1 pair slipper shoe inlays. Universal size, suitable for clients with foot size of max. 11.3 inches.",
+        "price_net": 53.52
+      },
+      {
+        "number": "108-4042",
+        "model": "Slipper shoe pads",
+        "description": "Replacement pair",
+        "price_net": 2.44
+      },
+      {
+        "number": "108-4043",
+        "model": "Spare power supply 230V (3A and 4A series)",
+        "description": "For TimeWaver 4A and 3A series with power cable",
+        "price_net": 50.34
+      },
+      {
+        "number": "108-4027",
+        "model": "Spare power supply 230V",
+        "description": "For TimeWaver and Frequency (not for TimeWaver 4A and 3A series)",
+        "price_net": 41.93
+      },
+      {
+        "number": "108-4033",
+        "model": "Sponge 60 x 75 mm",
+        "description": "For the use with silicon electrode",
+        "price_net": 1.84
+      },
+      {
+        "number": "108-4034",
+        "model": "Sponge 75 x 105 mm",
+        "description": "For the use with silicon electrode",
+        "price_net": 2.02
+      },
+      {
+        "number": "108-4035",
+        "model": "Sponge 105 x 130 mm",
+        "description": "For the use with silicon electrode",
+        "price_net": 2.02
+      },
+      {
+        "number": "108-5003",
+        "model": "Tesla Resonator",
+        "description": "The energetic addition for TimeWaver Pro",
+        "price_net": 1504.20
+      },
+      {
+        "number": "108-4059",
+        "model": "TimeWaver Home Batteries 3 pcs.",
+        "description": "Rechargeable batteries 2600mAh (3 pcs.)",
+        "price_net": 10.00
+      },
+      {
+        "number": "108-4050",
+        "model": "TimeWaver Home Charger",
+        "description": "Charger for Rechargeable batteries + 6 Rechargeable batteries 2600mAh",
+        "price_net": 41.17
+      },
+      {
+        "number": "108-4044",
+        "model": "USB-Cable",
+        "description": "USB-B to USB-A, 90 cm. Connection Pro/Frequency devices/mobile to PC",
+        "price_net": 2.19
+      },
+      {
+        "number": "01-003-029-01",
+        "model": "USB-C-Cable",
+        "description": "USB-C-cable, white, 100 cm. Connection TimeWaver MobileQuantum to PC",
+        "price_net": 3.99
+      },
+      {
+        "number": "108-4049",
+        "model": "Y-cable 30 cm",
+        "description": "Accessory for frequency application",
+        "price_net": 23.03
+      },
+      {
+        "number": "108-4052",
+        "model": "Y-cable 100 cm",
+        "description": "Accessory for frequency application",
+        "price_net": 27.64
+      },
+      {
+        "number": "108-5004",
+        "model": "Bifilar Coil, small",
+        "description": "For local energetic information transport, jack plug, approx. 4.5 cm ø",
+        "price_net": 66.39
+      },
+      {
+        "number": "108-5005",
+        "model": "Bifilar Coil, medium",
+        "description": "For local energetic information transport, jack plug, approx. 10.5 cm ø",
+        "price_net": 116.80
+      },
+      {
+        "number": "108-5006",
+        "model": "Bifilar Coil, large",
+        "description": "For local energetic information transport, jack plug, approx. 28 cm ø",
+        "price_net": 247.90
+      },
+      {
+        "number": "108-5014",
+        "model": "Bifilar Coil incl. redelcable, small",
+        "description": "For local energetic information transport, jack plug, approx. 4.5 cm ø",
+        "price_net": 92.86
+      },
+      {
+        "number": "108-5015",
+        "model": "Bifilar Coil incl. redelcable, medium",
+        "description": "For local energetic information transport, jack plug, approx. 10.5 cm ø",
+        "price_net": 143.27
+      },
+      {
+        "number": "108-5016",
+        "model": "Bifilar Coil incl. redelcable, large",
+        "description": "For local energetic information transport, jack plug, approx. 28 cm ø",
+        "price_net": 274.37
+      }
+    ],
+    "online_academy_access": [
+      {
+        "number": "01-007-007-01",
+        "model": "Access TimeWaver Online Academy – TimeWaver Pro/BIZ",
+        "description": "Unlimited personal access to www.timewaver.com/academy for TimeWaver Pro/BIZ. Included free with new device purchase.",
+        "price_net": 259.00
+      },
+      {
+        "number": "01-007-008-01",
+        "model": "Access TimeWaver Online Academy – TimeWaver Frequency",
+        "description": "Unlimited personal access to www.timewaver.com/academy for TimeWaver Frequency. Included free with new device purchase.",
+        "price_net": 129.00
+      },
+      {
+        "number": "01-007-009-01",
+        "model": "Access TimeWaver Online Academy – TimeWaver Frequency McMakin",
+        "description": "Unlimited personal access to www.timewaver.com/academy for TimeWaver Frequency McMakin. Included free with new device purchase.",
+        "price_net": 259.00
+      }
+    ],
+    "services": {
+      "update_service_by_year": {
+        "year_1": {
+          "patches_software_databases": "free",
+          "support_hotline_hours_free": 12,
+          "support_hotline_additional_per_hour": 100.84,
+          "loan_unit_notebook_48h": "free",
+          "loan_unit_timewaver_48h": "free",
+          "maintenance_contract_price": "free"
+        },
+        "years_2_and_3": {
+          "patches_software_databases": "free",
+          "support_hotline_hours_free": 5,
+          "support_hotline_additional_per_hour": 100.84,
+          "loan_unit_notebook_48h_free_units_per_year": 1,
+          "loan_unit_notebook_48h_additional": 67.23,
+          "loan_unit_timewaver_48h_free_units_per_year": 1,
+          "loan_unit_timewaver_48h_additional": 84.03,
+          "maintenance_contract_price": "variable"
+        },
+        "from_year_4": {
+          "patches_software_databases_per_year": 403.36,
+          "support_hotline_hours_free": 5,
+          "support_hotline_additional_per_hour": 100.84,
+          "loan_unit_notebook_48h_free_units_per_year": 1,
+          "loan_unit_notebook_48h_additional": 67.23,
+          "loan_unit_timewaver_48h_free_units_per_year": 1,
+          "loan_unit_timewaver_48h_additional": 84.03,
+          "maintenance_contract_price_base": 403.36,
+          "maintenance_contract_note": "€403.36 + variable"
+        }
+      },
+      "maintenance_contract": {
+        "number": "108-6003",
+        "description": "Update service (contains databases, patches and software)",
+        "price_net_per_year": 403.36
+      },
+      "without_maintenance_contract": {
+        "support_hotline_per_hour": 100.84,
+        "loan_unit_notebook_48h": "€67.23 plus shipping",
+        "loan_unit_timewaver_48h": "€84.03 plus shipping"
+      }
+    },
+    "literature": [
+      {
+        "number": "108-4058",
+        "title": "The Second Path",
+        "description": "My life in the information field - Autobiography of Marcus Schmieke. 160 pages, hard bound, ISBN: 978-3-9503535-2-5",
+        "pricing_tiers": [
+          { "quantity": "1–9 pcs.", "price_net": 18.60 },
+          { "quantity": "10–19 pcs.", "discount": "50%", "price_net": 18.60 },
+          { "quantity": "20 or more pcs.", "discount": "60%", "price_net": 27.10 }
+        ]
+      }
+    ]
+  }
+}
