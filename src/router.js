@@ -21,6 +21,8 @@ export function navigate(page, push = true) {
     document.getElementById('nav-' + p)?.classList.toggle('active', p === page)
   })
 
+  window.scrollTo(0, 0)
+
   if (push) history.pushState({ page }, '', '/' + page)
 }
 

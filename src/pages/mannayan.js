@@ -56,7 +56,8 @@ function renderCards() {
 
   grid.innerHTML = ''
   products.forEach((p, idx) => {
-    const content = p.content[state.lang]
+    const content = p.content?.[state.lang]
+    if (!content) return
     const parsed = parseLabelLines(content.label)
 
     const card = document.createElement('div')
