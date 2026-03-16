@@ -674,3 +674,21 @@ footer {
 @media (max-width: 600px) {
   .logo-text { display: none; }
 }
+
+@media (max-width: 480px) {
+  nav {
+    flex-wrap: wrap;
+    height: auto;
+    padding: 10px 16px;
+    gap: 4px;
+  }
+  .logo { order: 1; }
+  .nav-right { order: 2; margin-left: auto; }
+  .nav-links {
+    order: 3;
+    flex-basis: 100%;
+    justify-content: center;
+    gap: 6px;
+  }
+  .hero { padding-top: 108px; }
+}
